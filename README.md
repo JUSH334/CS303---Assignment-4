@@ -1,2 +1,8 @@
 # CS303---Assignment-4
-Binary Trees
+
+
+Name: Joshua Castro
+
+UMKC Email: ject4b@umsystem.edu
+
+
